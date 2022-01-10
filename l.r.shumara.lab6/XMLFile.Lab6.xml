@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <all>
+        <mobiles>
+            <mobile>
+                <factor>Sony</factor>
+                <model>Xperia PRO-I</model>
+                <price>134 990 у.е.</price>
+                <photo>goods/phones/sonyXperiaPROI.jpg</photo>
+            </mobile>
+            
+            <mobile>
+                <factor>Apple</factor>
+                <model>iPhone 13 Pro MAX</model>
+                <price>127 990 у.е.</price>
+                <photo>goods/phones/iPhone13ProMAX.jpg</photo>
+            </mobile>
+
+            <mobile>
+                <factor>Samsung</factor>
+                <model>Galaxy S21 Ultra</model>
+                <price>104 990 руб.</price>
+                <photo>goods/phones/samsungGalaxyS21Ultra.jpg</photo>
+            </mobile> 
+        </mobiles>
+
+        <comps>
+            <comp>
+                <factor>HP</factor>
+                <model>Pavilion 15-eh1011ua</model>
+                <price>59 990 у.е.</price>
+                <photo>goods/computers/notebookHPPavillon.jpg</photo>
+            </comp>
+        </comps>
+
+        <accessoires>
+            <accessoir>
+                <name>RGB лента</name>
+                <price>499 у.е.</price>
+                <photo>goods/accessoires/rgbString.jpg</photo>
+            </accessoir>
+
+            <accessoir>
+                <name>Мышь RAZER Василиск X Hyperspeed Wireless Black</name>
+                <price>4999 у.е.</price>
+                <photo>goods/accessoires/mouseRAZER.jpg</photo>
+            </accessoir>
+        
+        </accessoires>
+    </all>
+</root>
